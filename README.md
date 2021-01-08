@@ -1,0 +1,9 @@
+# RIIIDFinal
+
+
+Video link: https://youtu.be/M2KGgGrCD8k
+
+Riiid-mstrome is first notebook
+LGBM is second
+Basic deep learning is third
+For of deep learning is fourth
